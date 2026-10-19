@@ -1,10 +1,12 @@
-CHITALE MANAGEMENT SYSTEM
+CHITALE MANAGEMENT SYSTEM:---
 
 # Schema
 Tokens(TokenID,
        -------
        Assigned?,
-       InvoiceID);              # relationship 'In' in this schema itself
+       InvoiceID);              
+
+# relationship 'In' in this schema itself
 
 Products(ProductID,
          ---------
