@@ -9,7 +9,7 @@ Tokens(TokenID,
 # relationship 'In' in this schema itself
 
 Products(ProductID,
-         ---------
+       ---------
          Name,
          Description,
          UnitPrice,
